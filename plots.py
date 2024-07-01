@@ -16,7 +16,7 @@ def plot_ef(eR_ind, Rstd_ind, EFret, EFstd, eR, Rstd, LinRegPtfStd, LinRegPtfEr,
     plt.axis('tight')
     plt.legend(loc='upper right', shadow=True, fontsize='x-large')
     plt.grid(True)
-    plt.savefig(f'EF/{i}_EF.png')
+    plt.savefig(f'images/EF/{i}_EF.png')
     
 def plot_sector_weights(regPtf, sector_dict, i, regr):    
     # assign each stock to a sector with the sector_dict
@@ -38,7 +38,7 @@ def plot_sector_weights(regPtf, sector_dict, i, regr):
     plt.xlabel('Sector')    
     plt.ylabel('Weight')
     plt.legend(loc='upper right')
-    plt.savefig(f'Sectors/{i}_{regr}_sector_weights.png')
+    plt.savefig(f'images/Sectors/{i}_{regr}_sector_weights.png')
     
     
 # def get_cum_returns(retW_lin, retW_lasso, retW_elastic, returns_index_test, i):	
@@ -53,5 +53,5 @@ def get_cum_returns(retW_eq, retW_lin, retW_elastic, returns_index_test, i):
     plt.xlabel('Date')
     plt.ylabel('Cumulative Returns')
     plt.legend(loc='upper left')
-    plt.savefig(f'Cumulative/{i}_cumulative.png')
+    plt.savefig(f'images/Cumulative/{i}_cumulative.png')
 

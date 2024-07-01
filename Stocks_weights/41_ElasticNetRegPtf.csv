@@ -1,0 +1,319 @@
+firm,weight,sector
+FL,0.00311984357910954,Consumer Discretionary
+SCI,-0.001721780738452831,Consumer Discretionary
+SPGI,0.010892510438484047,Financials
+MCHP,0.004934137983933012,Information Technology
+GIS,0.07678514752997595,Consumer Staples
+ADI,0.0,Information Technology
+AEE,0.04659140516122019,Utilities
+GILD,-0.004602082050472378,Health Care
+PCG,-0.0,Utilities
+GHC,0.061130537737271104,Consumer Staples
+VFC,0.009337335447805904,Consumer Discretionary
+BXP,0.04758614112008977,Real Estate
+YUM,0.00026038348271894635,Consumer Discretionary
+XRX,-0.0015470437204245645,Information Technology
+IBM,0.03043198510487928,Information Technology
+NUE,-0.0,Materials
+AET,0.0,
+NOV,-0.006020634867534943,Energy
+CAR,-0.003733901045717024,Industrials
+EXC,0.0013641406460907788,Utilities
+JCI,0.0,Industrials
+LLY,0.000907297332483011,Health Care
+HST,0.0,Real Estate
+AZO,0.0056511335854058705,Financials
+PEG,-0.0,Utilities
+OMX,0.0,
+VLO,0.0,Energy
+INTU,-0.00033031676225346227,Information Technology
+KO,0.0,Consumer Staples
+APD,-0.0,Materials
+CHRW,-0.0,Industrials
+USB,0.0,Financials
+DIS,-0.0,Communication Services
+ITT,0.004361344859122213,Industrials
+AMD,-0.0046425255906056865,Information Technology
+MS,-0.0,Financials
+JNJ,0.016302617051075736,Health Care
+CMA,0.0,Financials
+WMT,0.004592210298926576,Consumer Staples
+KBH,-0.005231812870792956,Industrials
+UNM,-0.0,Financials
+KSS,-0.0,Consumer Discretionary
+MMC,0.0,Financials
+TAP,0.013371754491899136,Consumer Staples
+CVX,0.03663211879362088,Energy
+IAC,-0.017104642241768962,Communication Services
+LEG,0.0,Consumer Discretionary
+AMT,0.0,Real Estate
+MTG,0.004879132359478507,Financials
+MTW,-0.00555290640263647,Industrials
+WFC,0.0,Financials
+PDCO,0.004212291697559168,Health Care
+AVY,0.0,Industrials
+SNA,0.0,Industrials
+EMN,-0.0027908183108075984,Materials
+WOR,-0.0023906393301372075,Industrials
+BAX,0.0,Health Care
+NTAP,-0.002911001861442343,Information Technology
+DE,0.006751978936766423,Industrials
+TUP,0.0,Consumer Discretionary
+MAS,0.0,Industrials
+ROK,-0.01070014042004447,Industrials
+LEN,-0.000283275841732532,Industrials
+AON,-0.0,Financials
+TIE,0.006290872045497839,
+FITB,0.0,Financials
+AAPL,0.0011843954647153831,Information Technology
+NSC,-0.011584029540443302,Industrials
+DXC,0.0016513809333539146,Information Technology
+RF,-0.0,Financials
+ADBE,-0.003998959591637339,Information Technology
+K,0.002862605455386599,Consumer Staples
+UNH,0.0054681251163292005,Health Care
+HPQ,0.0,Information Technology
+ETR,0.0,Utilities
+BMS,0.0020418969629912233,
+HD,-0.014862384699092018,Consumer Discretionary
+TJX,0.0,Consumer Discretionary
+SYK,-0.0,Health Care
+IPG,-0.0,Communication Services
+JPM,-0.019572116430543154,Financials
+WM,0.014688538942861463,Industrials
+CCL,-0.00589179416522307,Consumer Discretionary
+DDS,-0.0003799729965650932,Consumer Discretionary
+HAL,-0.013032518144387774,Energy
+VIAV,-0.0,Information Technology
+DGX,0.003978682124867071,Health Care
+PHM,-0.010004709397270349,Industrials
+DOV,-0.0007448329490856213,Industrials
+MAT,0.019833069773679338,Consumer Discretionary
+MBI,-0.019291571444779176,Financials
+DLX,0.006895722865707389,Communication Services
+BIG,-0.004937742453932052,Consumer Staples
+MAR,0.0,Consumer Discretionary
+TEX,-0.0,Industrials
+ETN,0.010882464515723347,Industrials
+GD,0.010881041178939508,
+MU,0.001323148097743129,Information Technology
+UIS,-0.0,Information Technology
+SLM,0.03032053940663776,Financials
+DVN,0.0003955997184745403,Energy
+APA,0.0,Energy
+EL,0.015529827148058992,Consumer Staples
+CPB,-0.0017347697478650294,Consumer Staples
+FMC,-0.007537566057034589,Materials
+NC,0.0,Materials
+TSN,0.0,Consumer Staples
+CSCO,0.017331096400297057,Information Technology
+COF,-0.00528846688446435,Financials
+MOLX,-0.0019009337648802668,
+CAH,-0.0029915454359321675,Health Care
+MSFT,0.014667686597843656,Information Technology
+GPS,0.0,Consumer Discretionary
+AIG,-0.01064224881303863,Financials
+AFL,-0.0,Financials
+UNP,0.014209129121975483,Industrials
+COP,0.0,Energy
+QCOM,-0.0,Information Technology
+SNV,-0.013458156124328659,Financials
+RIG,0.0,Energy
+LUV,0.0,Industrials
+EFX,0.0,Industrials
+STZ,0.013453835306881283,Consumer Staples
+DHI,-0.0204264828254244,Industrials
+CINF,0.0,Financials
+AMZN,0.0,Consumer Discretionary
+AIT,0.006218472050272417,Industrials
+BBY,-0.0017154353162724123,Consumer Discretionary
+AES,-0.006310642475931087,Utilities
+ED,0.01899305470833412,Utilities
+CB,-0.00237630303050897,Financials
+STT,-0.007888168537568907,Financials
+PLD,0.050061514491732385,Real Estate
+NI,0.017970299533281664,Utilities
+ODP,-0.0,Consumer Discretionary
+NTRS,-0.014746529937760081,Financials
+MO,0.0,Consumer Staples
+HSY,0.0058756020222667255,Consumer Staples
+R,0.0,Information Technology
+LH,-0.0,Health Care
+CI,0.003963393250016483,Health Care
+PNC,0.0,Financials
+OKE,-0.013705586552011973,Financials
+CLX,0.0062953561828889915,Consumer Staples
+GWW,0.0022522611154382577,Industrials
+PFE,-0.011223940989927302,Health Care
+TGNA,0.021179508698355675,Communication Services
+M,-0.0,Consumer Discretionary
+AEP,-0.027492352468935024,Utilities
+TGT,0.0,Consumer Staples
+JNY,0.007310794473128868,
+F,-0.0,Consumer Discretionary
+HP,-0.0,Energy
+DRI,-0.0,Consumer Discretionary
+VNO,0.0,Real Estate
+CAT,-0.0,Industrials
+BK,-0.0,Financials
+TLAB,-0.005106637320971305,
+MMM,0.01620021074809324,Industrials
+CAG,0.011343112982010404,Consumer Staples
+SLB,0.0,Energy
+PG,0.017247127815919496,Consumer Staples
+LNC,-0.0,Financials
+PAYX,-0.0,Industrials
+T,0.0,Communication Services
+TRV,0.002562886811224878,Financials
+HRB,0.0028124164013013536,Consumer Discretionary
+COST,0.0,Consumer Staples
+OXY,-0.0,Energy
+SO,0.027986738571731118,Utilities
+JWN,-0.008112400222229681,Consumer Discretionary
+MTB,0.031862344523752875,Financials
+MCD,0.007795899876679782,Consumer Discretionary
+DD,0.0,Materials
+ADSK,0.002490893810888791,Information Technology
+L,0.01434424373054377,Financials
+MSI,0.0,Information Technology
+MRK,-0.0,Health Care
+GPC,0.013059557752718604,Consumer Discretionary
+GLW,0.010074867943225457,Information Technology
+EIX,-0.0009222850330705263,Utilities
+ADP,0.0,Industrials
+VMC,0.0,Materials
+CMI,-0.0,Industrials
+MRO,-0.0,Energy
+AN,0.005366502097021226,Consumer Discretionary
+SLR,0.007735407619311856,
+HON,-0.0,Financials
+GT,-0.0065868183926154735,Consumer Discretionary
+NEM,0.027539997690409847,Materials
+FE,0.0,Utilities
+FDX,0.012955172757219514,Industrials
+HBAN,0.0,Financials
+SWK,0.005701406270974728,Industrials
+PTC,-0.004345752328836781,Information Technology
+RL,0.008269975183314607,Consumer Discretionary
+MCO,0.005708884247853229,Financials
+CMVT,-0.005236146853462874,
+TWX,0.013814483013067837,
+ASH,0.010033343294930186,Materials
+BEN,-0.01411502505336677,Financials
+HNZ,0.016531296395928523,
+AIV,0.027477218511544256,Real Estate
+PPG,-0.02946275466472698,Materials
+SPG,0.0,Real Estate
+SFA,0.03038503058415014,
+ITW,-0.0,Industrials
+AXP,-0.01776434172921461,Financials
+CCU,0.05639079267167598,Consumer Staples
+HIG,-0.0,Financials
+BDX,0.0,Health Care
+LOW,-0.0015226361580466608,Consumer Discretionary
+TT,-0.019245352275850842,Industrials
+FCX,-0.0018830694957576593,Materials
+SSP,0.05678271382517052,Communication Services
+CMCSA,-0.007769765177595985,Communication Services
+XOM,-0.00020803918346057668,Energy
+C,-0.0,Financials
+AVB,0.03820633414191125,Real Estate
+FNMA,0.0,Financials
+EOG,-0.010725571792883958,Energy
+BIIB,-0.0012772098611772739,Health Care
+VZ,0.0,Communication Services
+XEL,0.0,Utilities
+HAS,0.0018093001341855726,Consumer Discretionary
+WAT,0.008241566110672487,Health Care
+VRSN,-0.0,Information Technology
+LMT,0.008039717603868467,Industrials
+PGR,-0.0,Financials
+HOG,0.0060879246883327855,Consumer Discretionary
+PCH,-0.0,Real Estate
+KEY,-0.007688612606560511,Financials
+KMB,0.0,Consumer Staples
+BA,-0.0013251882379935569,Industrials
+ALL,0.0,Financials
+AMGN,-0.0,Health Care
+BAC,0.028690520642962465,Financials
+WEN,0.053533320193132714,Consumer Discretionary
+ANF,-0.0,Consumer Discretionary
+SANM,-0.004260484232553379,Information Technology
+TKR,-0.0,Industrials
+PH,-0.0,Industrials
+TROW,-0.023056479506131728,Financials
+MCK,0.0054121315773810056,Health Care
+TER,-0.0020907957914459447,Information Technology
+ANDV,0.0,
+WHR,-0.0,Consumer Discretionary
+IFF,0.0,Materials
+NKE,0.0,Consumer Discretionary
+SYY,-0.0,Consumer Staples
+CL,-0.0,Consumer Staples
+JBL,0.005078050662707,Information Technology
+THC,-3.964700621363283e-05,Health Care
+ADM,0.0,Consumer Staples
+CCK,2.6086008660510257e-05,Consumer Discretionary
+KR,0.0032129874445968654,Consumer Staples
+CMS,-0.011219060562559186,Utilities
+GE,-0.0,Industrials
+CVS,-0.0,Health Care
+BMY,-0.0,Health Care
+EMR,0.0,Industrials
+IGT,0.0,Consumer Discretionary
+DHR,0.0012476987160478577,Health Care
+HUM,-0.003285819235948103,Health Care
+ECL,-0.0,Materials
+PPL,0.0,Utilities
+RHI,-0.003791991684856901,Industrials
+PBI,0.0,Industrials
+NOC,0.026742445100532617,Industrials
+FMCC,-0.0,Financials
+DTE,0.040133473261235675,Utilities
+CIEN,-0.0012864461440875567,Information Technology
+DDR,-0.0,
+PCAR,-0.02197431379389553,Industrials
+EXPD,0.0038011019287133123,Industrials
+NEE,0.018771812790435525,Utilities
+PEP,0.0,Consumer Staples
+KIM,0.03838451671074222,Real Estate
+BC,0.0,Consumer Discretionary
+NWL,0.006691281717107528,Consumer Staples
+MDT,0.0,Health Care
+HES,0.007835173473346602,Energy
+TXN,-0.0,Information Technology
+FCN,-0.0,Industrials
+ESRX,0.004123851710101036,
+OI,-0.0011479374803600017,Consumer Discretionary
+MKC,0.027595494262478048,Consumer Staples
+X,-0.0104035799600572,Materials
+INTC,0.0027573326123833965,Information Technology
+PSA,0.0006364785155355578,Real Estate
+SBUX,-0.006074284281000127,Consumer Discretionary
+OMC,0.009305840994611255,Communication Services
+EQR,0.0038257086975759173,Real Estate
+CTAS,-0.02111066503041305,Industrials
+ABT,-0.0,Health Care
+ORCL,0.00010466241269269596,Information Technology
+NYT,0.0002983508044727789,Communication Services
+KLAC,0.00509803982522457,Information Technology
+TMO,-0.0006710773090946208,Health Care
+TXT,-0.0,Industrials
+EA,0.004906487040804142,Communication Services
+ZION,0.0010998180334268817,Financials
+LPX,-0.009537332207235117,Industrials
+DUK,-0.0,Utilities
+JEF,0.030695588055426756,Financials
+CSX,-0.0,Industrials
+D,0.0,Utilities
+AMAT,0.0,Information Technology
+WY,0.00858388033656026,Consumer Discretionary
+SHW,0.0,Materials
+BSX,0.0,
+IP,0.006428382345938019,Consumer Discretionary
+PNW,0.0,Utilities
+SCHW,-0.009961629105131728,Financials
+WBA,0.0,Health Care
+NBR,-0.0,Energy
+MUR,0.02002191725441691,Energy
+FHN,0.0025072702679933556,Financials
